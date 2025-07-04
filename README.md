@@ -13,5 +13,4 @@ Celeb Search is a project that develops a machine learning model to recognize im
 This project showcases the practical challenges of machine learning, including data preparation, model design, and performance optimization. It illustrates the real-world process of developing an AI solution from concept to implementation.
 
 ## Resources & References
-- [Task 2 Repository](https://github.com/AravindSarath/CelebSearch-/tree/main)
 - [Final Task Documentation](https://docs.google.com/document/d/1ZQr4uEAv2T7KdJXtVu1ipgTBPzNDEJutanurkU0vxAA/edit?usp=sharing)
